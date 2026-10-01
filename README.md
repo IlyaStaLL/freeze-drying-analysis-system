@@ -8,7 +8,7 @@ The system processes experimental data, builds regression models, evaluates stat
 
 - Import experimental data from Excel and CSV
 - Linear, polynomial, exponential and logarithmic regression models
-- R² and Fisher statistic calculation
+- R^2 and Fisher statistic calculation
 - Data normalisation
 - Optimal temperature estimation
 - Experimental data visualisation
