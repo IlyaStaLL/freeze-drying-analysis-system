@@ -1,0 +1,6 @@
+*.db
+*.xlsx
+*.xls
+*.csv
+.env
+.venv/
