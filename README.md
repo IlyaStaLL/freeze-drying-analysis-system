@@ -30,7 +30,7 @@ The system processes experimental data, builds regression models, evaluates stat
 
 ## Screenshots
 
-Application screenshots can be added to the `screenshots/` directory and referenced here.
+Application screenshots added to the `screenshots/` directory
 
 ## Academic context
 
